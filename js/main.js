@@ -1,4 +1,31 @@
-var lista = ["maça", "pera", "uva", "salada mista"];
+var d = new Date();
+console.log(d);
+
+/*var count;
+for(count=0; count <=10; count++){
+    console.log(count);
+    }
+    */
+
+
+/*
+var count = 0;
+while(count<=10){
+    console.log(count);
+    count++;
+}
+*/
+
+/*var idade = prompt("Qual é a sua idade?"); // entrda de dados
+
+if(idade > 18){
+    alert("Maior de Idade");
+} else {
+    alert("Menor de Idade");
+}
+*/
+
+//var lista = ["maça", "pera", "uva", "salada mista"];
 
 
 //alert(lista[0]);
