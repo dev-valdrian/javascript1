@@ -1,4 +1,29 @@
-var d = new Date();
+function botao(){
+    document.getElementById("agradece").innerHTML = "Obrigado por Clicar";
+    //alert("Obrigado por Clicar!");
+}
+
+
+
+
+/*function soma(n1,n2){return n1+n2;}
+console.log(soma(5,10));
+alert(soma(5,10));
+/*var validar;
+function validaIdade(idade){
+  
+    if(idade >=18){ 
+        validar = true;
+    } else{ 
+        validar = false;
+    }
+    return validar;}
+    
+
+var idade = prompt("Qual é a sua idade? ");
+console.log(validaIdade(idade));
+
+/*var d = new Date();
 console.log(d);
 
 /*var count;
